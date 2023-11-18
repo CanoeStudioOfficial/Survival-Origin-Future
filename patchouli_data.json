@@ -1,0 +1,97 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "patchouli:survivaleracraft_guide_book": {
+      "viewedEntries": [
+        "patchouli:difficulty/difficulty_factors",
+        "patchouli:difficulty/difficulty_introduction",
+        "patchouli:difficulty/difficulty_sync",
+        "patchouli:introductory/introductory_speed",
+        "patchouli:quick_start/quests",
+        "patchouli:gamestages/gamestages_pouch",
+        "patchouli:misc/misc_recipes",
+        "patchouli:misc/commands"
+      ],
+      "bookmarks": [],
+      "history": [
+        "patchouli:misc/commands",
+        "patchouli:misc/misc_recipes",
+        "patchouli:difficulty/difficulty_factors",
+        "patchouli:gamestages/gamestages_pouch",
+        "patchouli:quick_start/quests",
+        "patchouli:introductory/introductory_speed",
+        "patchouli:difficulty/difficulty_introduction",
+        "patchouli:difficulty/difficulty_sync"
+      ],
+      "completedManualQuests": []
+    },
+    "dynamictrees:guide": {
+      "viewedEntries": [
+        "dynamictrees:features/rootysoil",
+        "dynamictrees:features/trees"
+      ],
+      "bookmarks": [],
+      "history": [
+        "dynamictrees:features/trees",
+        "dynamictrees:features/rootysoil"
+      ],
+      "completedManualQuests": []
+    },
+    "pyrotech:book": {
+      "viewedEntries": [
+        "pyrotech:survive/introduction",
+        "pyrotech:gather/fossil",
+        "pyrotech:gather/shard_bone_and_flint",
+        "pyrotech:survive/worktable",
+        "pyrotech:survive/fiber_torch",
+        "pyrotech:survive/chopping_block",
+        "pyrotech:gather/storage",
+        "pyrotech:gather/wood_chips",
+        "pyrotech:gather/sticks",
+        "pyrotech:gather/mud",
+        "pyrotech:gather/plant_fibers",
+        "pyrotech:gather/stone_cobbled",
+        "pyrotech:gather/mud_clump",
+        "pyrotech:gather/rock_bag",
+        "pyrotech:gather/clay_lump_of",
+        "pyrotech:innovate/refractory_brick",
+        "pyrotech:survive/food_roasted",
+        "pyrotech:gather/limestone",
+        "pyrotech:survive/rocks",
+        "pyrotech:gather/ash",
+        "pyrotech:accelerate/coal_coke",
+        "pyrotech:survive/campfire",
+        "pyrotech:survive/food_raw",
+        "pyrotech:survive/marshmallow",
+        "pyrotech:survive/campfire_effects",
+        "pyrotech:innovate/compacting_bin",
+        "pyrotech:adapt/stone",
+        "pyrotech:bloom/bloom",
+        "pyrotech:accelerate/refractory_bricks"
+      ],
+      "bookmarks": [
+        {
+          "entry": "pyrotech:innovate/refractory_brick",
+          "page": 0
+        }
+      ],
+      "history": [
+        "pyrotech:accelerate/refractory_bricks",
+        "pyrotech:bloom/bloom",
+        "pyrotech:gather/clay_lump_of",
+        "pyrotech:adapt/stone",
+        "pyrotech:innovate/compacting_bin",
+        "pyrotech:survive/campfire_effects",
+        "pyrotech:survive/marshmallow",
+        "pyrotech:survive/food_raw",
+        "pyrotech:survive/campfire",
+        "pyrotech:gather/fossil",
+        "pyrotech:gather/shard_bone_and_flint",
+        "pyrotech:innovate/refractory_brick",
+        "pyrotech:accelerate/coal_coke"
+      ],
+      "completedManualQuests": []
+    }
+  }
+}

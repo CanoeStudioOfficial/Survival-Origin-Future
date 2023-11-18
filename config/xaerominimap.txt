@@ -47,7 +47,7 @@ smoothDots:true
 worldMap:true
 terrainDepth:true
 terrainSlopes:2
-mainEntityAs:0
+mainEntityAs:1
 blockTransparency:true
 waypointOpacityIngame:80
 waypointOpacityMap:90
@@ -69,14 +69,14 @@ hideWaypointCoordinates:false
 renderAllSets:false
 playerArrowOpacity:100
 waypointsBottom:false
-minimapShape:1
+minimapShape:0
 lightOverlayType:0
 lightOverlayMaxLight:7
 lightOverlayMinLight:0
-lightOverlayColor:13
+lightOverlayColor:0
 uiScale:0
 bossHealthPushBox:1
-potionEffectPushBox:1
+potionEffectPushBox:2
 minimapFrame:0
 minimapFrameColor:9
 compassColor:9
@@ -106,7 +106,7 @@ legibleCaveMaps:false
 displayTrackedPlayers:true
 dimensionScaledMaxWaypointDistance:true
 infoDisplayOrder:coords:overworld_coords:chunk_coords:angles:dimension:biome:weather:light_level:time:real_time:highlights:light_overlay_indicator:manual_cave_mode_indicator:custom_sub_world
-infoDisplay:coords:false:15:-1
+infoDisplay:coords:true:15:-1
 infoDisplay:overworld_coords:false:15:-1
 infoDisplay:chunk_coords:false:15:-1
 infoDisplay:angles:false:15:-1
@@ -120,9 +120,9 @@ infoDisplay:highlights:true:15:-1
 infoDisplay:light_overlay_indicator:true:15:-1
 infoDisplay:manual_cave_mode_indicator:true:15:-1
 infoDisplay:custom_sub_world:true:15:-1
-interface:dummy:0:36:true:false:false:false
+interface:dummy:0:0:true:false:false:false
 interface:dummy:0:10000:true:false:false:false
 interface:dummy:0:0:false:false:true:false
 interface:dummy:0:36:true:false:false:false
-interface:gui.xaero_minimap:39:-21:false:false:true:false
+interface:gui.xaero_minimap:49:-29:false:false:true:false
 #WAYPOINTS HAVE BEEN MOVED TO /XaeroWaypoints
