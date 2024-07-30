@@ -1,6 +1,4 @@
 {
-  "_README": "https://gitlab.com/CDAGaming/CraftPresence/-/wikis/home",
-  "_SOURCE": "https://gitlab.com/CDAGaming/CraftPresence",
   "_schemaVersion": 6,
   "_lastMCVersionId": 340,
   "generalSettings": {
@@ -59,6 +57,9 @@
     },
     "singleplayerData": {
       "textOverride": "Playing Singleplayer"
+    },
+    "realmData": {
+      "textOverride": "Playing on {server.motd.raw}"
     }
   },
   "advancedSettings": {
@@ -98,7 +99,8 @@
     "serverIconEndpoint": "https://api.mcsrvstat.us/icon/{server.address.short}",
     "playerSkinEndpoint": "https://mc-heads.net/avatar/{getOrDefault(player.uuid.short, player.name)}",
     "allowDuplicatePackets": false,
-    "maxConnectionAttempts": 10
+    "maxConnectionAttempts": 10,
+    "enableClassGraph": false
   },
   "accessibilitySettings": {
     "tooltipBackground": {
@@ -132,7 +134,7 @@
       },
       "texLocation": "minecraft:textures/gui/options_background.png"
     },
-    "worldGuiBackground": {
+    "altGuiBackground": {
       "start": {
         "red": 16,
         "green": 16,
@@ -148,9 +150,10 @@
     },
     "languageId": "en_us",
     "stripTranslationColors": false,
+    "stripTranslationFormatting": false,
     "stripExtraGuiElements": false,
     "renderTooltips": true,
-    "configKeyCode": 0
+    "configKeyCode": 38
   },
   "displaySettings": {
     "presenceData": {
@@ -172,13 +175,7 @@
       }
     },
     "dynamicIcons": {
-      "default": "https://github.com/canoeStudio/Virtual-Survival-Climate-Adventure/blob/main/logo.png?raw=true",
-      "YjnN": "https://mc-heads.net/avatar/ad43e137fe6a472395e949620f623884",
-      "cn-yw-plc-1.openfrp.top": "https://api.mcsrvstat.us/icon/cn-yw-plc-1.openfrp.top",
-      "192.168.1.13": "https://api.mcsrvstat.us/icon/192.168.1.13",
-      "1": "https://mc-heads.net/avatar/0000000000003001998F501BC686B6BB",
-      "lonelyxiya": "https://mc-heads.net/avatar/e0acfe1c248e3d67bc73e5e13961b8f9",
-      "YHKS_": "https://mc-heads.net/avatar/0000000000003005998F50309962B9BC"
+      "default": "https://via.placeholder.com/256.png"
     },
     "dynamicVariables": {
       "default": "Example Text",

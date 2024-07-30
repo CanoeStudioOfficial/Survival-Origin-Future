@@ -23,16 +23,15 @@
     "oreAluminum": {
       "slagColor": "e2e2e3",
       "langKey": [
-        "divergentunderground:item.divergentunderground.ore_ie_aluminum",
-        "divergentunderground:item.divergentunderground.ore_thermal_aluminum",
-        "divergentunderground:tile.divergentunderground.ie_hard_aluminum_ore",
-        "divergentunderground:tile.divergentunderground.thermal_hard_aluminum_ore",
+        "geolosys:geolosys.cluster.aluminum",
         "immersiveengineering:tile.immersiveengineering.ore.aluminum",
+        "libvulpes:material.Aluminum",
         "thermalfoundation:tile.thermalfoundation.ore.aluminum"
       ],
       "output": [
         "immersiveengineering:metal:21",
-        "techreborn:nuggets:0",
+        "libvulpes:productnugget:9",
+        "suikerawore:nugget_aluminium:0",
         "thermalfoundation:material:196"
       ],
       "bloomYieldMinMax": [
@@ -47,8 +46,6 @@
     "oreArdite": {
       "slagColor": "e85e17",
       "langKey": [
-        "divergentunderground:item.divergentunderground.ore_tconstruct_ardite",
-        "divergentunderground:tile.divergentunderground.tconstruct_hard_ardite_ore",
         "tconstruct:tile.tconstruct.ore.ardite"
       ],
       "output": [
@@ -66,8 +63,6 @@
     "oreCobalt": {
       "slagColor": "1c5bc1",
       "langKey": [
-        "divergentunderground:item.divergentunderground.ore_tconstruct_cobalt",
-        "divergentunderground:tile.divergentunderground.tconstruct_hard_cobalt_ore",
         "tconstruct:tile.tconstruct.ore.cobalt"
       ],
       "output": [
@@ -85,26 +80,21 @@
     "oreCopper": {
       "slagColor": "ffaa1c",
       "langKey": [
-        "divergentunderground:item.divergentunderground.ore_forestry_copper",
-        "divergentunderground:item.divergentunderground.ore_ie_copper",
-        "divergentunderground:item.divergentunderground.ore_mekanism_copper",
-        "divergentunderground:item.divergentunderground.ore_thermal_copper",
-        "divergentunderground:tile.divergentunderground.forestry_hard_copper_ore",
-        "divergentunderground:tile.divergentunderground.ie_hard_copper_ore",
-        "divergentunderground:tile.divergentunderground.mekanism_hard_copper_ore",
-        "divergentunderground:tile.divergentunderground.thermal_hard_copper_ore",
-        "fd:tile.copper_ore",
-        "fd:tile.ore_2",
         "forestry:tile.for.resources.copper",
+        "geolosys:geolosys.cluster.copper",
+        "ic2:tile.blockOreCopper",
+        "iceandfire:tile.iceandfire.copperOre",
         "immersiveengineering:tile.immersiveengineering.ore.copper",
+        "libvulpes:material.Copper",
         "mekanism:tile.OreBlock.CopperOre",
-        "techreborn:tile.techreborn.ore2.copper",
+        "nuclearcraft:tile.nuclearcraft.ore.copper",
         "thermalfoundation:tile.thermalfoundation.ore.copper"
       ],
       "output": [
+        "iceandfire:copper_nugget:0",
         "immersiveengineering:metal:20",
+        "libvulpes:productnugget:4",
         "mekanism:nugget:5",
-        "techreborn:nuggets:4",
         "thaumcraft:nugget:1",
         "thermalfoundation:material:192"
       ],
@@ -120,12 +110,9 @@
     "oreGold": {
       "slagColor": "fcee4b",
       "langKey": [
-        "cyclicmagic:tile.end_gold_ore",
-        "cyclicmagic:tile.nether_gold_ore",
-        "divergentunderground:item.divergentunderground.ore_gold",
-        "divergentunderground:tile.divergentunderground.hard_gold_ore",
-        "fd:tile.ore_1",
-        "minecraft:tile.oreGold"
+        "geolosys:geolosys.cluster.gold",
+        "minecraft:tile.oreGold",
+        "mocreatures:tile.mocreatures.wyvern_gold_ore"
       ],
       "output": [
         "minecraft:gold_nugget:0"
@@ -142,13 +129,11 @@
     "oreIridium": {
       "slagColor": "d5d4e7",
       "langKey": [
-        "divergentunderground:item.divergentunderground.ore_thermal_iridium",
-        "divergentunderground:tile.divergentunderground.thermal_hard_iridium_ore",
-        "techreborn:tile.techreborn.ore.iridium",
+        "libvulpes:material.Iridium",
         "thermalfoundation:tile.thermalfoundation.ore.iridium"
       ],
       "output": [
-        "techreborn:nuggets:7",
+        "libvulpes:productnugget:10",
         "thermalfoundation:material:199"
       ],
       "bloomYieldMinMax": [
@@ -163,17 +148,13 @@
     "oreIron": {
       "slagColor": "d8af93",
       "langKey": [
-        "cyclicmagic:tile.end_iron_ore",
-        "cyclicmagic:tile.nether_iron_ore",
-        "divergentunderground:item.divergentunderground.ore_iron",
-        "divergentunderground:tile.divergentunderground.hard_iron_ore",
-        "fd:tile.ore_0",
-        "minecraft:tile.oreIron"
+        "geolosys:geolosys.cluster.iron",
+        "minecraft:tile.oreIron",
+        "mocreatures:tile.mocreatures.wyvern_iron_ore"
       ],
       "output": [
         "immersiveengineering:metal:29",
         "minecraft:iron_nugget:0",
-        "techreborn:nuggets:23",
         "thaumcraft:nugget:0"
       ],
       "bloomYieldMinMax": [
@@ -188,19 +169,15 @@
     "oreLead": {
       "slagColor": "95afee",
       "langKey": [
-        "divergentunderground:item.divergentunderground.ore_ie_lead",
-        "divergentunderground:item.divergentunderground.ore_thermal_lead",
-        "divergentunderground:tile.divergentunderground.ie_hard_lead_ore",
-        "divergentunderground:tile.divergentunderground.thermal_hard_lead_ore",
+        "geolosys:geolosys.cluster.lead",
         "immersiveengineering:tile.immersiveengineering.ore.lead",
         "mekanism:tile.OreBlock.LeadOre",
-        "techreborn:tile.techreborn.ore.lead",
+        "nuclearcraft:tile.nuclearcraft.ore.lead",
         "thermalfoundation:tile.thermalfoundation.ore.lead"
       ],
       "output": [
         "immersiveengineering:metal:22",
         "mekanism:nugget:7",
-        "techreborn:nuggets:8",
         "thaumcraft:nugget:4",
         "thermalfoundation:material:195"
       ],
@@ -216,8 +193,6 @@
     "oreMithril": {
       "slagColor": "9cf9ff",
       "langKey": [
-        "divergentunderground:item.divergentunderground.ore_thermal_mithril",
-        "divergentunderground:tile.divergentunderground.thermal_hard_mithril_ore",
         "thermalfoundation:tile.thermalfoundation.ore.mithril"
       ],
       "output": [
@@ -235,16 +210,12 @@
     "oreNickel": {
       "slagColor": "e4e5d8",
       "langKey": [
-        "divergentunderground:item.divergentunderground.ore_ie_nickel",
-        "divergentunderground:item.divergentunderground.ore_thermal_nickel",
-        "divergentunderground:tile.divergentunderground.ie_hard_nickel_ore",
-        "divergentunderground:tile.divergentunderground.thermal_hard_nickel_ore",
+        "geolosys:geolosys.cluster.nickel",
         "immersiveengineering:tile.immersiveengineering.ore.nickel",
         "thermalfoundation:tile.thermalfoundation.ore.nickel"
       ],
       "output": [
         "immersiveengineering:metal:24",
-        "techreborn:nuggets:9",
         "thermalfoundation:material:197"
       ],
       "bloomYieldMinMax": [
@@ -259,8 +230,7 @@
     "oreOsmium": {
       "slagColor": "9babc4",
       "langKey": [
-        "divergentunderground:item.divergentunderground.ore_mekanism_osmium",
-        "divergentunderground:tile.divergentunderground.mekanism_hard_osmium_ore",
+        "geolosys:geolosys.cluster.osmium",
         "mekanism:tile.OreBlock.OsmiumOre"
       ],
       "output": [
@@ -278,12 +248,10 @@
     "orePlatinum": {
       "slagColor": "55f3ff",
       "langKey": [
-        "divergentunderground:item.divergentunderground.ore_thermal_platinum",
-        "divergentunderground:tile.divergentunderground.thermal_hard_platinum_ore",
+        "geolosys:geolosys.cluster.platinum",
         "thermalfoundation:tile.thermalfoundation.ore.platinum"
       ],
       "output": [
-        "techreborn:nuggets:10",
         "thermalfoundation:material:198"
       ],
       "bloomYieldMinMax": [
@@ -298,17 +266,16 @@
     "oreSilver": {
       "slagColor": "e8f6fd",
       "langKey": [
-        "divergentunderground:item.divergentunderground.ore_ie_silver",
-        "divergentunderground:item.divergentunderground.ore_thermal_silver",
-        "divergentunderground:tile.divergentunderground.ie_hard_silver_ore",
-        "divergentunderground:tile.divergentunderground.thermal_hard_silver_ore",
+        "geolosys:geolosys.cluster.silver",
+        "ic2:tile.blockOreSilver",
+        "iceandfire:tile.iceandfire.silverOre",
         "immersiveengineering:tile.immersiveengineering.ore.silver",
-        "techreborn:tile.techreborn.ore.silver",
         "thermalfoundation:tile.thermalfoundation.ore.silver"
       ],
       "output": [
+        "iceandfire:silver_nugget:0",
         "immersiveengineering:metal:23",
-        "techreborn:nuggets:11",
+        "mocreatures:ancientsilvernugget:0",
         "thaumcraft:nugget:3",
         "thermalfoundation:material:194"
       ],
@@ -324,20 +291,17 @@
     "oreTin": {
       "slagColor": "c3e9ff",
       "langKey": [
-        "divergentunderground:item.divergentunderground.ore_forestry_tin",
-        "divergentunderground:item.divergentunderground.ore_mekanism_tin",
-        "divergentunderground:item.divergentunderground.ore_thermal_tin",
-        "divergentunderground:tile.divergentunderground.forestry_hard_tin_ore",
-        "divergentunderground:tile.divergentunderground.mekanism_hard_tin_ore",
-        "divergentunderground:tile.divergentunderground.thermal_hard_tin_ore",
         "forestry:tile.for.resources.tin",
+        "geolosys:geolosys.cluster.tin",
+        "ic2:tile.blockOreTin",
+        "libvulpes:material.Tin",
         "mekanism:tile.OreBlock.TinOre",
-        "techreborn:tile.techreborn.ore2.tin",
+        "nuclearcraft:tile.nuclearcraft.ore.tin",
         "thermalfoundation:tile.thermalfoundation.ore.tin"
       ],
       "output": [
+        "libvulpes:productnugget:5",
         "mekanism:nugget:6",
-        "techreborn:nuggets:13",
         "thaumcraft:nugget:2",
         "thermalfoundation:material:193"
       ],
@@ -353,10 +317,11 @@
     "oreUranium": {
       "slagColor": "5c734b",
       "langKey": [
-        "divergentunderground:item.divergentunderground.ore_ie_uranium",
-        "divergentunderground:tile.divergentunderground.ie_hard_uranium_ore",
+        "geolosys:geolosys.cluster.uranium",
+        "ic2:tile.blockOreUran",
         "immersiveengineering:tile.immersiveengineering.ore.uranium",
-        "mekanism:tile.OreBlock.UraniumOre"
+        "mekanism:tile.OreBlock.UraniumOre",
+        "nuclearcraft:tile.nuclearcraft.ore.uranium"
       ],
       "output": [
         "immersiveengineering:metal:25",

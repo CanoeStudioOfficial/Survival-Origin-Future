@@ -3,3 +3,9 @@ type = customizablemenus
 net.minecraft.client.gui.GuiMainMenu {
 }
 
+com.github.alexthe666.iceandfire.client.gui.IceAndFireMainMenu {
+}
+
+com.gildedgames.the_aether.client.gui.menu.AetherMainMenu {
+}
+

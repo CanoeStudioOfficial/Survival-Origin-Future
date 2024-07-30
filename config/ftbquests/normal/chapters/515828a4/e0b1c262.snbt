@@ -1,0 +1,14 @@
+{
+	x: 6.0d,
+	y: -2.0d,
+	dependencies: [
+		"f9fad70c"
+	],
+	tasks: [{
+		uid: "73c52062",
+		type: "item",
+		items: [{
+			item: "pyrotech:kiln_pit"
+		}]
+	}]
+}

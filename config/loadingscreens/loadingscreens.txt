@@ -1,3 +1,0 @@
-background = addStretchedTexture("top_left", "vsaccr:gui/loadscreen.png")
-
-background.setRelRender(1, 1)

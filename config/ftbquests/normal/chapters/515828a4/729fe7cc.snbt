@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 1.0d,
+	dependencies: [
+		"6d52bcc2"
+	],
+	tasks: [{
+		uid: "912a5ca1",
+		type: "item",
+		items: [{
+			item: "pyrotech:stash"
+		}]
+	}]
+}

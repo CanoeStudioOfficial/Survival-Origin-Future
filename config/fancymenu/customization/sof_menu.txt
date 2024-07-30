@@ -1,0 +1,494 @@
+type = menu
+
+customization-meta {
+  identifier = com.github.alexthe666.iceandfire.client.gui.IceAndFireMainMenu
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+
+customization {
+  name = inforesources
+  action = setbackgroundslideshow
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = mid-right
+  x = -121
+  action = movebutton
+  y = 2
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  width = 108
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources/fancymenu/images/multiplayer.png
+  backgroundnormal = resources/fancymenu/images/singleplayera.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  path = resources/fancymenu/sounds/join.wav
+  action = addhoversound
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  path = resources/fancymenu/sounds/choose.wav
+  action = setbuttonclicksound
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  action = setbuttondescription
+  description = {"placeholder":"local","values":{"key":"sof.fm.mp.desc"}}
+}
+
+customization {
+  identifier = %id=9764%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = mid-right
+  x = -121
+  action = movebutton
+  y = 28
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  width = 51
+  action = resizebutton
+  height = 19
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  action = setbuttonlabel
+  value = {"placeholder":"local","values":{"key":"sof.fm.options"}}
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources/fancymenu/images/settings.png
+  backgroundnormal = resources/fancymenu/images/settingsandmods.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  path = resources/fancymenu/sounds/keyboarda.wav
+  action = addhoversound
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  action = sethoverlabel
+  label = §e{"placeholder":"local","values":{"key":"sof.fm.options.choose"}}
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  path = resources/fancymenu/sounds/keyboardc.wav
+  action = setbuttonclicksound
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  action = setbuttondescription
+  description = {"placeholder":"local","values":{"key":"sof.fm.options.desc"}}
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = mid-right
+  x = -93
+  action = movebutton
+  y = 54
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  width = 80
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = setbuttonlabel
+  value = §c{"placeholder":"local","values":{"key":"sof.fm.quitgame"}}
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources/fancymenu/images/quitb.png
+  backgroundnormal = resources/fancymenu/images/quita.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  path = resources/fancymenu/sounds/keyboardb.wav
+  action = addhoversound
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = sethoverlabel
+  label = §4{"placeholder":"local","values":{"key":"sof.fm.quitgame.choose"}}
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  path = resources/fancymenu/sounds/keyboardc.wav
+  action = setbuttonclicksound
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = setbuttondescription
+  description = {"placeholder":"local","values":{"key":"sof.fm.quitgame.desc"}}
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = mid-right
+  x = -121
+  action = movebutton
+  y = 54
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  width = 19
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources/fancymenu/images/languageb.png
+  backgroundnormal = resources/fancymenu/images/languagea.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  path = resources/fancymenu/sounds/papera.wav
+  action = addhoversound
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  path = resources/fancymenu/sounds/paperb.wav
+  action = setbuttonclicksound
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = setbuttondescription
+  description = {"placeholder":"local","values":{"key":"sof.fm.lang.desc"}}
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-right
+  x = -121
+  action = movebutton
+  y = -24
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  width = 108
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources/fancymenu/images/singleplayerb.png
+  backgroundnormal = resources/fancymenu/images/singleplayera.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  path = resources/fancymenu/sounds/join.wav
+  action = addhoversound
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  action = sethoverlabel
+  label = {"placeholder":"local","values":{"key":"sof.fm.sp.choose"}}
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  path = resources/fancymenu/sounds/choose.wav
+  action = setbuttonclicksound
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  action = setbuttondescription
+  description = {"placeholder":"local","values":{"key":"sof.fm.sp.desc"}}
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  orientation = mid-right
+  x = -64
+  action = movebutton
+  y = 28
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  width = 51
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources/fancymenu/images/mods.png
+  backgroundnormal = resources/fancymenu/images/settingsandmods.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  path = resources/fancymenu/sounds/keyboarda.wav
+  action = addhoversound
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  path = resources/fancymenu/sounds/keyboardc.wav
+  action = setbuttonclicksound
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  action = setbuttondescription
+  description = {"placeholder":"local","values":{"key":"sof.fm.mod.desc"}}
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 113
+  width = 200
+  action = deep_customization_element:title_screen_forge_top
+  actionid = 182e2f19-5b65-46fa-8d33-60ccbd04b84b1657099597778
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 121
+  action = deep_customization_element:title_screen_branding
+  actionid = 248fc87c-be27-4d60-8c1e-661398c7ea1d1657099597779
+  y = 188
+  height = 50
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 311
+  width = 168
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = 14d19325-e9a1-4309-aaf0-7d3da1d0b02e1657099597779
+  y = 235
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 343
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = f46947b6-ac57-48a6-8622-fc271f9388961657099597779
+  y = 163
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 103
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 4534c748-ad93-42bd-b6f2-997f793e740f1657099597779
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 4eabbe05-57f5-4a11-8001-baa227a6bb411657099597779
+  y = 0
+  height = 30
+}
+
+customization {
+  path = resources/fancymenu/images/logo.png
+  orientation = top-left
+  x = 7
+  width = 259
+  actionid = 61cf2768-bff1-4ffd-a38c-68f126fbd3501628554642869
+  action = addtexture
+  y = 16
+  height = 55
+}
+
+customization {
+  orientation = bottom-left
+  shadow = false
+  x = 2
+  actionid = 6fa971e2-71c9-4a85-98d9-dcb61c1534801628555465572
+  action = addtext
+  y = -9
+  scale = 1.0
+  alignment = left
+  value = §9Survival - Origin & Future By Canoe Studio §5Made By §6Canoe Studio
+}
+
+customization {
+  orientation = top-left
+  basecolor = #d3a300
+  shadow = true
+  splashfilepath = resources/fancymenu/splash.txt
+  rotation = -15.0
+  scale = 0.8
+  refresh = false
+  bouncing = true
+  vanilla-like = false
+  x = 231
+  actionid = ade5f768-ced1-487a-9d8d-c2d9d58831991628555509847
+  action = addsplash
+  y = 61
+}
+
+customization {
+  orientation = bottom-left
+  shadow = false
+  x = 2
+  actionid = 2db62829-c0f6-452f-8d78-7694ab2d1f211628555664940
+  action = addtext
+  y = -45
+  scale = 1.0
+  alignment = left
+  value = {"placeholder":"local","values":{"key":"sof.fm.mcver"}}§7%mcversion%
+}
+
+customization {
+  orientation = bottom-left
+  shadow = false
+  x = 2
+  actionid = 8918afbe-70ad-419c-af1a-e8a42a326c2c1628555718974
+  action = addtext
+  y = -18
+  scale = 1.0
+  alignment = left
+  value = {"placeholder":"local","values":{"key":"sof.fm.activemods"}}§a%loadedmods%
+}
+
+customization {
+  orientation = bottom-left
+  shadow = false
+  x = 2
+  actionid = cd0fd4b7-ea4d-4191-9b86-446c8fbdd44a1628555781674
+  action = addtext
+  y = -27
+  scale = 1.0
+  alignment = left
+  value = {"placeholder":"local","values":{"key":"sof.fm.totalmods"}}§d%totalmods%
+}
+
+customization {
+  orientation = bottom-left
+  shadow = false
+  x = 2
+  actionid = 973515e2-0f8b-4e45-ba54-137e3751737d1628555873415
+  action = addtext
+  y = -36
+  scale = 1.0
+  alignment = left
+  value = {"placeholder":"local","values":{"key":"sof.fm.forgever"}}§b%version:forge%
+}
+
+customization {
+  orientation = mid-left
+  shadow = false
+  x = 16
+  actionid = 2cdd0f62-2a69-4be5-b13e-2837741454f11628555399411
+  action = addtext
+  y = -17
+  scale = 1.0
+  alignment = left
+  value = Hello , §e%playername%！
+}
+
+customization {
+  orientation = mid-right
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  x = 16
+  width = 108
+  action = movebutton
+  actionid = 775cbcf5-541b-4a3e-9e92-041d5d5783e61707027699155
+  backgroundhovered = resources/fancymenu/images/curseforge.png
+  backgroundnormal = resources/fancymenu/images/singleplayera.png
+  y = -17
+  label = 
+  height = 20
+}

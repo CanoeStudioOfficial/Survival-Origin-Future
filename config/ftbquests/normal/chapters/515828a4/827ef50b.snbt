@@ -1,0 +1,16 @@
+{
+	x: 10.5d,
+	y: -3.5d,
+	dependencies: [
+		"17ad47cc"
+	],
+	tasks: [{
+		uid: "29073367",
+		type: "item",
+		items: [{
+			item: "pyrotech:clay_shears"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

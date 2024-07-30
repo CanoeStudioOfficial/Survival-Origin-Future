@@ -1,0 +1,26 @@
+{
+	x: -2.0d,
+	y: 0.5d,
+	dependencies: [
+		"22bfb452"
+	],
+	tasks: [{
+		uid: "3118dcce",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any stickWood"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "stickWood"
+				}
+			}
+		}],
+		count: 5L
+	}]
+}

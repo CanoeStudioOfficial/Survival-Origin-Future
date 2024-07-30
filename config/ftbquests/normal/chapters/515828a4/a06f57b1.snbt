@@ -1,0 +1,16 @@
+{
+	x: 10.5d,
+	y: -0.5d,
+	dependencies: [
+		"a17ba75c"
+	],
+	tasks: [{
+		uid: "97e02f69",
+		type: "item",
+		items: [{
+			item: "pyrotech:tongs_flint"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

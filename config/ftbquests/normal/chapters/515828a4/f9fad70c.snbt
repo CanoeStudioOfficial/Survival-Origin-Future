@@ -1,0 +1,16 @@
+{
+	x: 4.5d,
+	y: -0.5d,
+	dependencies: [
+		"3e92dfd0"
+	],
+	tasks: [{
+		uid: "62b57202",
+		type: "item",
+		items: [{
+			item: "pyrotech:bone_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

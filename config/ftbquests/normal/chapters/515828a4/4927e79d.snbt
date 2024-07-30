@@ -1,0 +1,16 @@
+{
+	x: 10.5d,
+	y: 1.5d,
+	dependencies: [
+		"dbb8df6d"
+	],
+	tasks: [{
+		uid: "503a111c",
+		type: "item",
+		items: [{
+			item: "pyrotech:flint_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

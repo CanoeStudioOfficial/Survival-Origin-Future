@@ -1,0 +1,15 @@
+{
+	x: 8.0d,
+	y: -1.0d,
+	dependencies: [
+		"a950f34a"
+	],
+	tasks: [{
+		uid: "4e60a788",
+		type: "item",
+		items: [{
+			item: "pyrotech:bucket_wood"
+		}],
+		ignore_nbt: 1b
+	}]
+}

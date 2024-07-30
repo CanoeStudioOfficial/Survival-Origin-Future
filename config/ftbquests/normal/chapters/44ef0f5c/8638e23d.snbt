@@ -1,0 +1,21 @@
+{
+	title: "搭建传送门",
+	x: 9.0d,
+	y: 0.0d,
+	text: [
+		"在草地上挖掘一个1格高的2X2的坑，在坑周围插满花朵并在坑内放满水，即可完成搭建",
+		"",
+		"丢入&c破命销魂&r激活传送门"
+	],
+	hide: true,
+	tasks: [{
+		uid: "226a5433",
+		type: "item",
+		icon: "contenttweaker:twilight_gem",
+		items: [{
+			item: "legendera:soul_disintegrator"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

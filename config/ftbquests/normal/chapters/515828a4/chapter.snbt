@@ -1,0 +1,18 @@
+{
+	title: "原始·前传",
+	icon: "pyrotech:book",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: "",
+	images: [{
+		x: 4.0d,
+		y: -6.5d,
+		width: 10.0d,
+		height: 10.0d,
+		rotation: 0.0d,
+		image: "fancymenu:images/title.png",
+		hover: [],
+		click: "",
+		dev: false
+	}]
+}

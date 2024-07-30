@@ -1,0 +1,1218 @@
+{
+    "parts": [
+        {
+            "x": -3,
+            "y": 0,
+            "z": 2,
+            "nbt": {"id":"minecraft:tilefluidinputhatch","casingColor":"16777215","input":"1b","size":"3","tank":{"Empty":""}},
+            "elements": [
+                "modularmachinery:blockfluidinputhatch@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 3,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 1,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "tconstruct:clear_glass@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 2,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 3,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "tconstruct:clear_glass@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 4,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "tconstruct:clear_glass@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 5,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 2,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 6,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 3,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 7,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 0,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 1,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 0,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 0,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 1,
+            "nbt": {"id":"minecraft:tileiteminputbus","casingColor":"16777215","inventory":{"inSlots":,"outSlots":,"miscSlots":,"inventoryArray":[{"holderId":"0","holderEmpty":"1b"},{"holderId":"1","holderEmpty":"1b"},{"holderId":"2","holderEmpty":"1b"},{"holderId":"3","holderEmpty":"1b"},{"holderId":"4","holderEmpty":"1b"},{"holderId":"5","holderEmpty":"1b"},{"holderId":"6","holderEmpty":"1b"},{"holderId":"7","holderEmpty":"1b"},{"holderId":"8","holderEmpty":"1b"}],"sides":},"busSize":"3"},
+            "elements": [
+                "modularmachinery:blockinputbus@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "minecraft:lava@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 3,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "tconstruct:clear_glass@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "minecraft:lava@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 7,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 6,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 5,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 4,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 3,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 2,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 1,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 0,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 2,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 1,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 0,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 6,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 5,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 4,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 3,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 7,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 0,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 7,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 4,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 3,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 2,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 1,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 7,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 6,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 5,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 6,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 7,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 4,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 5,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 2,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 3,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 0,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 1,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 0,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 2,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 1,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 4,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 3,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 6,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 5,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 5,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 4,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 3,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 2,
+            "nbt": {"id":"minecraft:tileenergyinputhatch","casingColor":"16777215","energy":"0L","hatchSize":"3"},
+            "elements": [
+                "modularmachinery:blockenergyinputhatch@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 1,
+            "nbt": {"id":"minecraft:tileenergyinputhatch","casingColor":"16777215","energy":"0L","hatchSize":"3"},
+            "elements": [
+                "modularmachinery:blockenergyinputhatch@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 6,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 0,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 5,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 7,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 7,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 6,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "tconstruct:clear_glass@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "minecraft:lava@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "minecraft:lava@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 3,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 0,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 2,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 1,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 4,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 3,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 0,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 3,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "tconstruct:clear_glass@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 1,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 2,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "tconstruct:clear_glass@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "tconstruct:clear_glass@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 0,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 1,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 0,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 3,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 2,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 5,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 1,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 4,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 2,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 3,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 7,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 6,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 0,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 3,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 0,
+            "nbt": {"id":"minecraft:tileitemoutputbus","casingColor":"16777215","inventory":{"inSlots":,"outSlots":,"miscSlots":,"inventoryArray":[{"holderId":"0","holderEmpty":"1b"},{"holderId":"1","holderEmpty":"1b"},{"holderId":"2","holderEmpty":"1b"},{"holderId":"3","holderEmpty":"1b"},{"holderId":"4","holderEmpty":"1b"},{"holderId":"5","holderEmpty":"1b"},{"holderId":"6","holderEmpty":"1b"},{"holderId":"7","holderEmpty":"1b"},{"holderId":"8","holderEmpty":"1b"}],"sides":},"busSize":"3"},
+            "elements": [
+                "modularmachinery:blockoutputbus@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "tconstruct:clear_glass@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "minecraft:lava@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "minecraft:lava@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 7,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 6,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 0,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 1,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 1,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 0,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 2,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 3,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 5,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 4,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 4,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 5,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 3,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 6,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 7,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 2,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 0,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "tconstruct:clear_glass@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 1,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 2,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 7,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 0,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 3,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 3,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 4,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 5,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "minecraft:lava@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 6,
+            "nbt": {"id":"minecraft:tilecolorablemachinecomponent","casingColor":"16777215"},
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "minecraft:lava@0"
+            ]
+        }
+    ]}
