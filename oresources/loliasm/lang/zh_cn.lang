@@ -6,7 +6,7 @@ loliasm.gui.restart=重启Minecraft
 loliasm.crashscreen.title=§e:( §d虚拟生存·气候控制重制版§c崩！溃！啦！
 loliasm.crashscreen.summary=（提示：重启游戏或恢复存档备份能解决绝大部分的此类问题）
 
-loliasm.crashscreen.paragraph1.line1=以下列出的Mod可能导致了崩溃，但是不一定是导致崩溃的唯一原因，简单的删除这些Mod很可能并不能解决问题。
+loliasm.crashscreen.paragraph1.line1=以下列出的Mod可能导致了崩溃，但是不一定是导致崩溃的唯一原因。
 
 loliasm.crashscreen.unknownCause=§c老子也不晓得是啥子mod把游戏崩了
 loliasm.crashscreen.identificationErrored=[鉴别错误,请报告给 LoliASM 模组]
