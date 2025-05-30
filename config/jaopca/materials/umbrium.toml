@@ -1,0 +1,42 @@
+#Configurations for material Umbrium.
+[general]
+	#The module blacklist of this material.
+	moduleBlacklist = []
+	#The alternative names of this material.
+	alternativeNames = []
+	#The color of this material.
+	color = 6295415
+	#The byproducts of this material.
+	extras = []
+	#The model type of the material.
+	modelType = "metallic"
+	#Should items of this material have the enchanted glow.
+	hasEffect = false
+	#Is the storage block of this material small (2x2).
+	isSmallStorageBlock = false
+[mysticalagriculture]
+	#The amount of material obtained by crafting Mystical Agriculture essence.
+	outputCount = 4
+	#The crop tier of this material.
+	tier = 3
+	#The amount of Mystical Agriculture essence required to craft materials.
+	inputCount = 8
+[mekanism]
+	#The default base to use in Mekanism's Combiner to recreate ores.
+	oreBase = "minecraft:cobblestone"
+[thermalexpansion_mysticalagriculture]
+	#The base seed output chance when growing Mystical Agriculture seeds in Thermal Expansion's Insolator with Phyto-Gro.
+	basicChance = 100
+	#The base seed output chance when growing Mystical Agriculture seeds in Thermal Expansion's Insolator with Rich Phyto-Gro.
+	richChance = 105
+	#The base seed output chance when growing Mystical Agriculture seeds in Thermal Expansion's Insolator with Fluxed Phyto-Gro.
+	fluxChance = 110
+[exnihilocreatio]
+	#The output chance of the sieve recipes added using an iron mesh.
+	sieveIronChance = 0.07500000298023224
+	#The output chance of the sieve recipes added using a flint mesh.
+	sieveFlintChance = 0.05000000074505806
+	#The default base to sieve in Ex Nihilo Creatio to get ore pieces.
+	oreBase = "#gravel"
+	#The output chance of the sieve recipes added using a diamond mesh.
+	sieveDiamondChance = 0.15000000596046448

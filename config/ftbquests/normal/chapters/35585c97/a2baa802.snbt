@@ -1,0 +1,21 @@
+{
+	disable_toast: 1b,
+	x: -0.5d,
+	y: -2.0d,
+	dependencies: [
+		"035d2d08"
+	],
+	hide: 1b,
+	tasks: [{
+		uid: "aa673506",
+		type: "checkmark",
+		title: "Immersive Engineering",
+		icon: "immersiveengineering:tool",
+		disable_toast: 1b
+	}],
+	rewards: [{
+		uid: "038e509a",
+		type: "item",
+		item: "immersiveengineering:tool"
+	}]
+}

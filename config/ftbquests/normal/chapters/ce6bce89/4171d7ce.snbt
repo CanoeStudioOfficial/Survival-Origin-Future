@@ -1,0 +1,20 @@
+{
+	x: 4.2d,
+	y: 2.4d,
+	text: [
+		"&r▪➡&7 Make a Drying Rack."
+	],
+	dependencies: [
+		"5c583b74"
+	],
+	hide: 1b,
+	dependency_requirement: "one_completed",
+	size: 0.8d,
+	tasks: [{
+		uid: "71768d80",
+		type: "item",
+		items: [{
+			item: "pyrotech:drying_rack 1 1"
+		}]
+	}]
+}

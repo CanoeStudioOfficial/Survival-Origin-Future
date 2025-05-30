@@ -1,0 +1,11 @@
+crafttweaker.message.command.tip=§6何も起こっていないようだ……§r
+crafttweaker.message.broken=§6壊れてしまったようだ……§r
+crafttweaker.message.difficulty=§4ゲームの難易度をロックしてから再度お試しください……§r
+crafttweaker.message.tip=§2バグが発生した場合は、すぐに公式に報告してください！ §r
+crafttweaker.message.tip1=§3ああ……頭がクラクラする……これは……何？どうしてここにいるんだ！§r
+crafttweaker.message.tip2=§3とにかく、今は生き延びることが最優先だ。§r
+crafttweaker.message.tip3=§2今から約250万年前、人類は打製石器を使い始め、石器時代に突入した。§r
+crafttweaker.message.locked=§5鍵がかかっている！§r
+crafttweaker.message.failed=§6うまくいかなかったようだ……万能の鍵を試してみる？§r
+crafttweaker.message.nether=§4火のルーンがない状態でネザーに行くのは非常に危険な行為です……§r
+crafttweaker.message.end=§5欲望のルーンがない状態でエンドに行くのは非常に危険な行為です……§r

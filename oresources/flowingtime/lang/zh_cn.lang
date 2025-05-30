@@ -1,0 +1,26 @@
+#群组
+itemGroup.flowingtime=流逝时间
+
+#模式
+fl.timewatch.mode=时间控制模式：%s
+fl.timewatch.mode_switch=时间控制模式设置为：%s
+fl.timewatch.ff=快进
+fl.timewatch.off=关闭
+fl.timewatch.rw=倒带
+
+#工具提示
+fl.timewatch.tooltip1=成为时间的主宰
+fl.timewatch.tooltip2=右键单击以更改模式
+fl.pedestal.tooltip1=手持时间手表时右键单击
+fl.pedestal.tooltip2=左键单击取出手表
+fl.timewatch.pedestal1=每刻给附近的方块提供 %d 个额外的刻
+
+#物品
+item.flowingtime:timewatch.name=时间手表
+
+#瓷砖
+tile.flowingtime:flpedestal.name=基座
+
+#按键
+fl.key.charge=充能
+fl.key.mode=模式

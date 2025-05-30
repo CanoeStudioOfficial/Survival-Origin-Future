@@ -1,0 +1,14 @@
+{
+  "packName": "PlaceHolder name",
+  "packId": "placeholdername",
+  "version": "1.10.915",
+  "debug": false,
+  "loaders": {
+    "preInit": [
+      "preInit/"
+    ],
+    "postInit": [
+      "postInit/"
+    ]
+  }
+}

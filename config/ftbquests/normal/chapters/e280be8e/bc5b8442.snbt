@@ -1,0 +1,22 @@
+{
+	x: -2.0d,
+	y: -3.0d,
+	tasks: [{
+		uid: "d025577d",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any seed"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "seed"
+				}
+			}
+		}]
+	}]
+}

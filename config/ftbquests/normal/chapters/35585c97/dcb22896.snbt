@@ -1,0 +1,18 @@
+{
+	x: 6.0d,
+	y: -4.5d,
+	shape: "hexagon",
+	hide: 1b,
+	tasks: [{
+		uid: "a007d4af",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 5"
+		}]
+	}],
+	rewards: [{
+		uid: "64d39ea5",
+		type: "xp",
+		xp: 50
+	}]
+}

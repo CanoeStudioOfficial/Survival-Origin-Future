@@ -1,0 +1,23 @@
+{
+	x: -1.5d,
+	y: 2.0d,
+	text: [
+		"&r▪➡&7 Make an axe.",
+		"",
+		"&9[ℹ]&7 The recipe for an axe is different from vanilla! Always don't forget to check JEI."
+	],
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"a63cf0b2"
+	],
+	hide: 1b,
+	tasks: [{
+		uid: "794463e8",
+		type: "item",
+		items: [{
+			item: "minecraft:stone_axe"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

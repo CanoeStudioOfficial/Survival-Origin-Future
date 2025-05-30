@@ -1,0 +1,11 @@
+{
+	x: -2.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "4e7f185b",
+		type: "item",
+		items: [{
+			item: "sereneseasons:season_sensor_spring"
+		}]
+	}]
+}

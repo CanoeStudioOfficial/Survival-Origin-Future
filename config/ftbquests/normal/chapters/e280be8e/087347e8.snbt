@@ -1,0 +1,14 @@
+{
+	x: -2.0d,
+	y: -1.5d,
+	dependencies: [
+		"bc5b8442"
+	],
+	tasks: [{
+		uid: "67a3b7ec",
+		type: "item",
+		items: [{
+			item: "farmingforblockheads:market"
+		}]
+	}]
+}

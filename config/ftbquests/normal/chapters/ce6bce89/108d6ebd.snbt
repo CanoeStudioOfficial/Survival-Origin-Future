@@ -1,0 +1,30 @@
+{
+	title: "Barrel",
+	icon: "pyrotech:barrel",
+	x: 3.0d,
+	y: 1.2d,
+	text: [
+		"&r▪➡&7 Craft a Barrel and a Barrel Lid.",
+		"",
+		"&c[❗]&7 Warning, the barrel will not work if not covered with the lid! To cover the barrel &b(right-click)&r&7 with the lid in hand on the top side of the barrel."
+	],
+	dependencies: [
+		"5c583b74"
+	],
+	hide: 1b,
+	size: 0.8d,
+	tasks: [{
+		uid: "9d936cc6",
+		type: "item",
+		items: [{
+			item: "pyrotech:barrel"
+		}]
+	},
+	{
+		uid: "a9281ab4",
+		type: "item",
+		items: [{
+			item: "pyrotech:barrel_lid"
+		}]
+	}]
+}

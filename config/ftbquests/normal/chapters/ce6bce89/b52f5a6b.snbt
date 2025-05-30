@@ -1,0 +1,24 @@
+{
+	x: -1.5d,
+	y: 3.5d,
+	shape: "square",
+	text: [
+		"&r▪➡&7 Make a hammer."
+	],
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"078f1222",
+		"a63cf0b2"
+	],
+	hide: 1b,
+	dependency_requirement: "one_started",
+	tasks: [{
+		uid: "bb5fbc53",
+		type: "item",
+		items: [{
+			item: "pyrotech:stone_hammer"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

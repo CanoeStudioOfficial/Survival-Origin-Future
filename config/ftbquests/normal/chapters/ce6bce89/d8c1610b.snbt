@@ -1,0 +1,20 @@
+{
+	x: 1.2d,
+	y: 1.2d,
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"5c583b74"
+	],
+	hide: 1b,
+	size: 0.8d,
+	optional: 1b,
+	tasks: [{
+		uid: "bbd2c1d5",
+		type: "item",
+		items: [{
+			item: "pyrotech:bucket_wood"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

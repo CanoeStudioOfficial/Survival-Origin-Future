@@ -1,0 +1,31 @@
+sof.fm.curse=Curseforge公式統合パックページ
+
+sof.fm.github=ソースコードを閲覧/統合パックに貢献する？
+sof.fm.lang.desc=言語を切り替える（あなたも翻訳に貢献できます）
+
+sof.fm.mod.desc=各モッドの基本設定
+
+sof.fm.mp.desc=サーバーに参加するか、友達とマルチプレイ
+
+sof.fm.options.choose=オプション
+sof.fm.options.desc=ゲームの基本設定
+sof.fm.options=オプション
+
+sof.fm.quitgame.choose=本当に終了しますか？
+sof.fm.quitgame.desc=誤操作は心配無用
+sof.fm.quitgame=ゲームを終了する
+
+sof.fm.sp.choose=一人でプレイ
+sof.fm.sp.desc=ゲームを開始！
+
+sof.fm.forgever=Forge バージョン：
+sof.fm.activemods=読み込まれたモッド数：
+sof.fm.mcver=Minecraft ゲームバージョン：
+sof.fm.totalmods=総モッド数：
+
+sof.fm.welcome=サバイバル・オリジンと未来をプレイしていただきありがとうございます
+sof.fm.ram.info=ゲームメモリ使用量
+sof.fm.thank=プレイしていただきありがとうございます
+
+sof.fm.patreon=支援ページ（グローバル）
+sof.fm.sponser=支援ページ（中国）

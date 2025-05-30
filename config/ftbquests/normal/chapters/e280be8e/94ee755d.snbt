@@ -1,0 +1,14 @@
+{
+	x: -3.5d,
+	y: -1.0d,
+	dependencies: [
+		"087347e8"
+	],
+	tasks: [{
+		uid: "ce6c3365",
+		type: "item",
+		items: [{
+			item: "farmingforblockheads:chicken_nest"
+		}]
+	}]
+}

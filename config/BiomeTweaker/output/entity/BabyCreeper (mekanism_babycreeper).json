@@ -1,0 +1,6 @@
+
+{
+  "Name": "BabyCreeper",
+  "Registry ID": "mekanism:babycreeper",
+  "Class": "mekanism.common.entity.baby.EntityBabyCreeper"
+}

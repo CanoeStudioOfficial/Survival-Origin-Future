@@ -1,0 +1,19 @@
+{
+	x: 0.0d,
+	y: 4.264d,
+	text: [
+		"&r▪➡&7 Get flint from gravel."
+	],
+	dependencies: [
+		"078f1222"
+	],
+	hide: 1b,
+	size: 0.8d,
+	tasks: [{
+		uid: "b0bdcaad",
+		type: "item",
+		items: [{
+			item: "minecraft:flint"
+		}]
+	}]
+}

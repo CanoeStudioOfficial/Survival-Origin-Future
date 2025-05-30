@@ -1,0 +1,14 @@
+{
+	x: 0.5d,
+	y: -2.5d,
+	dependencies: [
+		"087347e8"
+	],
+	tasks: [{
+		uid: "d2c329e8",
+		type: "item",
+		items: [{
+			item: "farmingforblockheads:fertilizer 1 2"
+		}]
+	}]
+}

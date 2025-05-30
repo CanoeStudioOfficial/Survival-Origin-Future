@@ -1,0 +1,10 @@
+# Configuration file
+
+general {
+    S:interactBlocks <
+        minecraft:crafting_table:0=100000
+        minecraft:furnace:0=100000
+     >
+}
+
+

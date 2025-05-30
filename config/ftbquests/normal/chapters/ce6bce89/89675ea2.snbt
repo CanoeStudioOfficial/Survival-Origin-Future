@@ -1,0 +1,18 @@
+{
+	title: "Creosote Oil",
+	x: 4.2d,
+	y: 6.0d,
+	text: [
+		"&r▪➡&7 Get one bucket of creosote oil using the collector."
+	],
+	dependencies: [
+		"ef0c520d"
+	],
+	hide: 1b,
+	size: 0.8d,
+	tasks: [{
+		uid: "1fe33658",
+		type: "fluid",
+		fluid: "creosote"
+	}]
+}

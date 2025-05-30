@@ -1,0 +1,18 @@
+{
+	x: 6.6d,
+	y: 0.4d,
+	dependencies: [
+		"356e139f",
+		"ca5925c4",
+		"10e05482"
+	],
+	hide: 1b,
+	size: 0.8d,
+	tasks: [{
+		uid: "c91f7129",
+		type: "item",
+		items: [{
+			item: "minecraft:leather"
+		}]
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 6.6d,
+	y: 3.5d,
+	shape: "hexagon",
+	dependencies: [
+		"e7110521"
+	],
+	hide: 1b,
+	tasks: [{
+		uid: "c63f690f",
+		type: "item",
+		items: [{
+			item: "pyrotech:soaking_pot"
+		}]
+	}]
+}

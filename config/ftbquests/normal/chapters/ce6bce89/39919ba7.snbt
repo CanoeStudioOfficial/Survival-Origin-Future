@@ -1,0 +1,15 @@
+{
+	x: 2.0d,
+	y: 6.8d,
+	dependencies: [
+		"1c144c8e"
+	],
+	size: 0.8d,
+	tasks: [{
+		uid: "c8cc013f",
+		type: "item",
+		items: [{
+			item: "realistictorches:torch_lit"
+		}]
+	}]
+}

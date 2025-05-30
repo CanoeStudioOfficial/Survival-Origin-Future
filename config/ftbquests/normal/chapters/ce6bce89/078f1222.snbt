@@ -1,0 +1,21 @@
+{
+	x: -1.5d,
+	y: 5.0d,
+	text: [
+		"&r▪➡&7 Make a shovel."
+	],
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"a63cf0b2"
+	],
+	hide: 1b,
+	tasks: [{
+		uid: "a969f851",
+		type: "item",
+		items: [{
+			item: "minecraft:stone_shovel"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

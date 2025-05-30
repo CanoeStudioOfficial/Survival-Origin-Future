@@ -1,0 +1,6 @@
+
+{
+  "Name": "BabyEnderman",
+  "Registry ID": "mekanism:babyenderman",
+  "Class": "mekanism.common.entity.baby.EntityBabyEnderman"
+}

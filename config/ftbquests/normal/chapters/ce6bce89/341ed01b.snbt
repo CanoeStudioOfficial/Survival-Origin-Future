@@ -1,0 +1,20 @@
+{
+	x: 5.6d,
+	y: 1.6d,
+	text: [
+		"&r▪➡&7 Make a paper."
+	],
+	dependencies: [
+		"6293f06e",
+		"4171d7ce"
+	],
+	hide: 1b,
+	size: 0.8d,
+	tasks: [{
+		uid: "5d7a1cde",
+		type: "item",
+		items: [{
+			item: "minecraft:paper"
+		}]
+	}]
+}

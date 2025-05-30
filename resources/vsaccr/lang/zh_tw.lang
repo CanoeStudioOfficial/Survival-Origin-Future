@@ -1,0 +1,54 @@
+#由於台灣用語差異 故部分物品使用英文顯示，如果你想參加正式譯名，歡迎！
+
+
+
+
+vsaccr.item.guide.name=§c生存·起源與未來§b§o手冊
+vsaccr.item.guide.subtitle=入门必读生存·起源與未來參考手冊
+
+
+#自訂事件
+vsaccr.command.purgeCommand.chat=已經清理所有掉落物品
+vsaccr.event.welcome.name=歡迎游玩生存·起源與未來模組包，官方Discord社區： https://discord.gg/S4C2bvUjAJ
+
+
+
+vsaccr.tconstruct.tool_trait.pinkyTrait.desc=§o少女心！§r\n§f挖掘钻石时有概率获得樱色钻石，有絲綢之觸时无效。
+vsaccr.tconstruct.tool_trait.pinkyTrait.name=粉嫩
+
+
+
+#Tic 材料
+vsaccr.tconstruct.material.sakura_diamond.name=櫻色鑽石
+vsaccr.tconstruct.material.ender_biotite.name=終界雲母
+vsaccr.tconstruct.material.diamond.name=鑽石
+vsaccr.tconstruct.material.scarlite.name=緋紅寶石
+vsaccr.tconstruct.material.chocolate.name=巧克力
+vsaccr.tconstruct.material.bedrock.name=基岩
+vsaccr.tconstruct.material.coal.name=煤
+vsaccr.tconstruct.material.pumpkin.name=南瓜
+
+
+#提示
+vsaccr.tips.1=這個包是基於 Greedycraft 一代版本 ，也被稱爲 Greedycraft Lite modpack . 但完全是參考。
+vsaccr.tips.2=你可以將所有獲得的新材料都丟進冶煉爐裡，看看會不會產生新的合金。
+vsaccr.tips.3=按住~鍵可以快速挖礦或砍樹！不僅如此，就連石頭也能快速挖掘，不過也會快速消耗工具耐久和飢餓值。
+vsaccr.tips.4=若要丟出物品，請按小鍵盤上的「/」按鈕。
+vsaccr.tips.5=匠魂的冶煉爐是個製造合金的好東西，如果你礦物夠多的話，別拿各種粉合成了。冶煉爐可以直接澆鑄出礦物塊。
+vsaccr.tips.6=匠魂冶煉爐建議做得越大越好。
+vsaccr.tips.3=/dank/null是個好東西，下礦再也不用擔心物品欄滿了。
+vsaccr.tips.4=果你懶得造房子，你可以尋找村莊，或者在HEI裡搜尋 @Prefab，來瞬間建造房屋！
+vsaccr.tips.5=請記得在終界傳送門旁放置一塊路徑石，這將會非常有幫助。
+vsaccr.tips.6=在空中搭建道路或者進行建造時，使用第一人稱視角將更有利於操作。
+vsaccr.tips.7=在難度提升時，Boss的生命值並不會增加太多。請注意，有些Boss的生命值是固定的。
+vsaccr.tips.8=無盡方塊可以當作信標底座！
+vsaccr.tips.9=你可以在HEI菜單中輸入 @FTBQuests 來查看一些對你執行任務有幫助的物品！
+vsaccr.tips.10=你還沒有獲得無盡方塊嗎？真是可惜。
+
+
+
+
+#自訂物品
+item.contenttweaker.chaos_gem.name=混沌寶石
+item.contenttweaker.angel_core.name=天使核心
+item.contenttweaker.twilight_gem.name=暮光水晶

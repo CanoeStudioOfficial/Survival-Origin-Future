@@ -1,0 +1,19 @@
+{
+	x: 3.0d,
+	y: 0.4d,
+	text: [
+		"&r▪➡&7 Make one bucket of Tannin using the barrel.",
+		"",
+		"&c[❗]&7 Warning, barrel must be covered with a lid!"
+	],
+	dependencies: [
+		"108d6ebd"
+	],
+	hide: 1b,
+	size: 0.8d,
+	tasks: [{
+		uid: "e41b778b",
+		type: "fluid",
+		fluid: "tannin"
+	}]
+}

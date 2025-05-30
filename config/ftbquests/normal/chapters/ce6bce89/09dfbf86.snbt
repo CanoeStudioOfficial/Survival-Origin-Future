@@ -1,0 +1,23 @@
+{
+	x: 1.2d,
+	y: 4.0d,
+	text: [
+		"&r▪➡&7 Craft a Flint and Tinder.",
+		"",
+		"&9[ℹ]&7 To start the fire, you need to &bhold (Right-Click)&r&7 and look at the block you want to start the fire on."
+	],
+	dependencies: [
+		"2df431ba"
+	],
+	hide: 1b,
+	size: 0.8d,
+	tasks: [{
+		uid: "442e9571",
+		type: "item",
+		items: [{
+			item: "pyrotech:flint_and_tinder"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

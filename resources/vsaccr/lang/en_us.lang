@@ -1,0 +1,42 @@
+vsaccr.item.guide.name=§cVirtual Survival Climate Control Remastered §b§oFrom Beginner to Proficient
+vsaccr.item.guide.subtitle=Beginner's must-read Virtual Survival Climate Control Remastered Reference Manual
+vsaccr.stage.disabled_item.name=Disabled Items
+vsaccr.stage.disabled_item.tooltip=§cDisabled
+vsaccr.event.anticheat.pls_remove=It has been detected that you have installed a mod that severely disrupts the balance of the game, you must remove the following mods and restart the game to continue.
+vsaccr.tips.1=Virtual Survival Climate Control Remastered is no better than Modern Survival because Modern Survival is more realistic.
+
+#Tic
+vsaccr.tconstruct.material.sakura_diamond.name=Cherry Blossom Diamond
+vsaccr.tconstruct.material.ender_biotite.name=Endstone
+vsaccr.tconstruct.material.diamond.name=Diamond
+vsaccr.tconstruct.material.scarlite.name=Crimson Ruby
+vsaccr.tconstruct.material.chocolate.name=Chocolate
+vsaccr.tconstruct.material.bedrock.name=Bedrock
+vsaccr.tconstruct.material.coal.name=Coal
+vsaccr.tconstruct.material.pumpkin.name=Pumpkin
+vsaccr.tconstruct.material.dense_redstone.name= Dense redstone
+
+
+#tips
+vsaccr.tips.2=You can throw all the new materials you’ve obtained into the smelting furnace to see if they will produce new alloys.
+vsaccr.tips.3=Holding down the ~ key allows you to mine or chop trees quickly! Not only that, even stone can be mined quickly, but it will also rapidly consume tool durability and hunger.
+vsaccr.tips.4=To discard items, press the / button on the numpad.
+vsaccr.tips.5=The Tinkers' Construct Smeltery is a great tool for crafting alloys. If you have enough minerals, don't bother with crafting various powders. The Smeltery can directly pour mineral blocks.
+vsaccr.tips.6=It’s recommended to make the Tinkers’ Construct Smeltery as large as possible.
+vsaccr.tips.3=The /dank/null is a useful item; you no longer have to worry about your inventory getting full while mining.
+vsaccr.tips.4=If you're too lazy to build a house, you can search for villages or use the "@Prefab" command in HEI to instantly construct houses!
+vsaccr.tips.5=Remember to place a Waystone near the End Portal; it’s very useful.
+vsaccr.tips.6=When building roads or structures in the air, the first-person perspective is more convenient for maneuvering.
+vsaccr.tips.7=When the difficulty increases, the bosses' health doesn't rise too much. Keep in mind that the health of some bosses remains fixed.
+vsaccr.tips.8=Endless Blocks can be used as Beacon bases!
+vsaccr.tips.9=You can input "@FTBQuests" in the HEI menu to see some items that can help you with your tasks!
+vsaccr.tips.10=Have you not obtained the Endless Blocks yet? What a pity.
+
+
+
+#tooltips
+vsaccr.tooltip.crushing_tub=§aUsed for crushing stuff by feet
+
+#event
+vsaccr.command.purgeCommand.chat=All dropped items have been cleared.
+vsaccr.event.welcome.name=Welcome to play the Origin and Future Integration Pack! Official Discord community: https://discord.gg/S4C2bvUjAJ

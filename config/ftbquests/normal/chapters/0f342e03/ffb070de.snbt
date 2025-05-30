@@ -1,0 +1,11 @@
+{
+	x: -3.0d,
+	y: -0.5d,
+	tasks: [{
+		uid: "36c7626b",
+		type: "item",
+		items: [{
+			item: "sereneseasons:greenhouse_glass"
+		}]
+	}]
+}
